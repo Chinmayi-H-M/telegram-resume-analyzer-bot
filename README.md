@@ -1,6 +1,17 @@
 # telegram-resume-analyzer-bot
 Telegram chatbot that analyzes Google Docs resumes using an AI agent and emails a detailed report via Make.com automation.
 
+Built using Telegram Bot API and Make.com automation.
+
+## 📌 About the Project
+
+This project is an automated Telegram chatbot.
+When a user sends any message (like "Hi"), the bot starts the conversation
+and asks for a Google Docs resume link.
+
+The resume is analyzed using an AI agent, and a feedback report is generated
+and sent automatically to the email ID found inside the resume.
+
 ## ✨ Features
 
 - Auto-triggered Telegram chatbot
