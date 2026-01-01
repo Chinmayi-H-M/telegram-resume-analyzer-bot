@@ -42,3 +42,10 @@ and sent automatically to the email ID found inside the resume.
 5. Email ID is extracted from the resume
 6. Resume report is generated
 7. Report is sent to the email mentioned in the resume
+
+   ## 🎯 Use Cases
+
+- Students preparing resumes
+- Freshers applying for jobs
+- Automated resume feedback
+
