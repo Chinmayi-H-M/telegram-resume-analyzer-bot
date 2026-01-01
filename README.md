@@ -56,4 +56,12 @@ and sent automatically to the email ID found inside the resume.
 - No-code workflow design
 - Email automation
 
+  ## 🚀 Future Enhancements
+
+- PDF resume support
+- ATS score calculation
+- Telegram inline buttons
+- Dashboard integration
+
+
 
