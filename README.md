@@ -49,3 +49,11 @@ and sent automatically to the email ID found inside the resume.
 - Freshers applying for jobs
 - Automated resume feedback
 
+  ## 📚 Learning Outcomes
+
+- Telegram bot automation
+- AI agent integration
+- No-code workflow design
+- Email automation
+
+
