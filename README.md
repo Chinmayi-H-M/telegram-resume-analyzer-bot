@@ -32,3 +32,13 @@ and sent automatically to the email ID found inside the resume.
 - AI Agent
 - Google Docs
 - Email Automation (Gmail)
+
+  ## 🔄 How It Works
+
+1. User sends any message to the Telegram bot
+2. Bot asks for Google Docs resume link
+3. Resume content is fetched from Google Docs
+4. AI agent analyzes the resume
+5. Email ID is extracted from the resume
+6. Resume report is generated
+7. Report is sent to the email mentioned in the resume
