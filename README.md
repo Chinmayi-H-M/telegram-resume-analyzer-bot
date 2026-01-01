@@ -63,5 +63,9 @@ and sent automatically to the email ID found inside the resume.
 - Telegram inline buttons
 - Dashboard integration
 
+## 🔗 Bot Link
+
+Telegram Bot: https://t.me/ResumeScanAIbot
+
 
 
